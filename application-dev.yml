@@ -1,2 +1,2 @@
 environment: development
-flower: rose
+numberOfRuns: 8
