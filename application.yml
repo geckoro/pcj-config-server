@@ -1,2 +1,1 @@
-environment: default
-flower: daisy
+number_of_runs: 3
